@@ -64,38 +64,31 @@ Admins have elevated privileges to ensure quality and security across the platfo
    git clone https://github.com/yourusername/skill-swap-platform.git
    cd skill-swap-platform
 
-SkillSphere/
-├── client/                  # Frontend React App
-├── server/                  # Backend Express Server
-│   ├── models/              # Mongoose models
-│   ├── routes/              # API routes
-│   ├── middleware/          # Auth & admin checks
-│   └── controllers/         # Business logic
-├── .env
-└── README.md
+## ✨ Future Improvements
 
-✨ Future Improvements
-Email/Push notifications for swap requests
+    Email/Push notifications for swap requests
+    
+    Chat integration
+    
+    Advanced filtering and sorting
+    
+    Skill-level tagging and endorsements
 
-Chat integration
+## 📄 License
+- This project is licensed under the MIT License.
+  
 
-Advanced filtering and sorting
-
-Skill-level tagging and endorsements
-
-📄 License
-This project is licensed under the MIT License.
-
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📬 Contact
-For queries or collaboration:
-Email: your.email@example.com
-GitHub: @yourusername
 
----
+## 📬 Contact
+    For queries or collaboration:
+    Email: your.email@example.com
+    GitHub: @yourusername
 
-Would you like this customized with specific tech stack choices or deployment instructions (like Heroku, Vercel, Docker, etc.)?
+
+
+
 
 
